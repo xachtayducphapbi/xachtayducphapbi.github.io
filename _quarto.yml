@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: "docs"
+website:
+  title: "AllôPoto"
+  navbar:
+    left: 
+      - text: Khóa học online
+        href: courses.qmd
+      - text: Khóa học video
+        href: courses-video.qmd
+      - text: Review
+        href: feedback.qmd 
+    right:
+      - icon: whatsapp
+        href: https://wa.me/33744192752
+      - icon: instagram
+        href: https://www.instagram.com/allopoto.be/
+      - icon: instagram
+        href: https://www.instagram.com/coucoutintin.be/
+      - icon: envelope
+        href: mailto:allopoto.be@gmail.com
+      - icon: facebook
+        href: https://facebook.com/allopoto.vn
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+      - styles.scss
+
+editor: visual
+

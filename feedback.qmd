@@ -1,0 +1,13 @@
+---
+title: "Phản hồi từ học viên"
+listing:
+  contents: feedbacks
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  max-description-length: 450
+  image-height: 300px
+page-layout: full
+title-block-banner: true
+---
