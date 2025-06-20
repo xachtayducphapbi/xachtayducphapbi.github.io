@@ -1,15 +1,9 @@
 [
   {
-    "listing": "/feedback.html",
+    "listing": "/mypham.html",
     "items": [
-      "/feedbacks/chuc-an/index.html",
-      "/feedbacks/ngoc-linh/index.html",
-      "/feedbacks/phuc-bui/index.html",
-      "/feedbacks/quang-dong/index.html",
-      "/feedbacks/quynh-anh/index.html",
-      "/feedbacks/tu-quyen/index.html",
-      "/feedbacks/vi-thao/index.html",
-      "/feedbacks/van-cuong/index.html"
+      "/mypham/avene-solaire-fragrance/index.html",
+      "/mypham/avene-solaire-tinted/index.html"
     ]
   }
 ]
