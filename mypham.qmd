@@ -3,12 +3,12 @@ title: "Mỹ phẩm"
 listing:
   contents: mypham
   type: grid
-  image-height: 4in
+  image-height: 6in
   image-lazy-loading: false
   fields: [image, title, subtitle, description]
   field-display-names:
     categories: "Loại mỹ phẩm"
-  max-description-length: 180
+  max-description-length: 190
   sort: 
     - "title"
   categories: true

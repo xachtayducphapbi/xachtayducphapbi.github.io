@@ -1,5 +1,5 @@
 ---
-title: "Kem chống nắng Avène SPF 50+ không mùi - 50ML"
+title: "Kem chống nắng Avène SPF 50+ không mùi - 50ml"
 subtitle: "Chính hãng Pháp"
 image: "image.jpg"
 categories:
