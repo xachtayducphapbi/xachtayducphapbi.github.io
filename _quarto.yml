@@ -13,6 +13,10 @@ website:
         href: tuixach.qmd
       - text: Đồ em bé
         href: embe.qmd
+    right:
+      - icon: globe
+        text: "Zalo"
+        href: https://zalo.me/84934976149
 format:
   html:
     theme:

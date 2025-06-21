@@ -8,3 +8,17 @@ body {
   color: $text-color;
   background-color: $body-bg;
 }
+
+main {
+  text-align: left !important;
+}
+
+/* Increase icon and text size inside about links */
+.about-link {
+  font-size: 2rem; /* increase text size */
+  padding: 0.8em 1.2em; /* increase button padding */
+}
+
+.about-link i {
+  font-size: 1.1rem; /* increase icon size */
+}

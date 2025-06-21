@@ -2,6 +2,13 @@
 title: "Xách tay Pháp Đức Bỉ"
 about:
   template: jolla
+  links:
+    - icon: globe
+      text: "Zalo"
+      href: https://zalo.me/84934976149
 ---
-Đồ xách tay từ các nước Pháp, Đức, Bỉ chính hãng, uy tín. 
-**Liên hệ với chúng tôi** để được tư vấn chi tiết 👇
+
+Đồ xách tay từ các nước Pháp, Đức, Bỉ chính hãng, uy tín.\
+Chúng tôi nhận xách tay [**Mỹ Phẩm**](mypham.qmd), [**Nước hoa**](nuochoa.qmd),
+[**Túi xách**](tuixach.qmd), [**Đồ em bé**](embe.qmd).\
+**Liên hệ với chúng tôi** tại đây 👇
