@@ -1,5 +1,5 @@
 ---
-title: "Xách tay Pháp Đức Bỉ"
+title: "Xách tay Đức Pháp Bỉ"
 about:
   template: jolla
   links:
@@ -8,7 +8,6 @@ about:
       href: https://zalo.me/84934976149
 ---
 
-Đồ xách tay từ các nước Pháp, Đức, Bỉ chính hãng, uy tín.\
-Chúng tôi nhận xách tay [**Mỹ Phẩm**](mypham.qmd), [**Nước hoa**](nuochoa.qmd),
-[**Túi xách**](tuixach.qmd), [**Đồ em bé**](embe.qmd).\
+Đồ xách tay từ các nước Đức, Pháp, Bỉ chính hãng, uy tín.\
+Chúng tôi nhận xách tay [**Mỹ Phẩm**](mypham.qmd), [**Nước hoa**](nuochoa.qmd), [**Túi xách**](tuixach.qmd), [**Đồ em bé**](embe.qmd).\
 **Liên hệ với chúng tôi** tại đây 👇
