@@ -1,0 +1,17 @@
+---
+title: "Đồ em bé, bỉm sữa"
+listing:
+  contents: embe
+  type: grid
+  image-height: 6in
+  image-lazy-loading: false
+  fields: [image, title, subtitle, description]
+  field-display-names:
+    categories: "Danh mục"
+  max-description-length: 190
+  sort: 
+    - "title"
+  categories: true
+  sort-ui: false
+  filter-ui: [title, subtitle]
+---

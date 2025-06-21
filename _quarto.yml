@@ -9,6 +9,10 @@ website:
         href: mypham.qmd
       - text: Nước hoa
         href: nuochoa.qmd
+      - text: Túi xách
+        href: tuixach.qmd
+      - text: Đồ em bé
+        href: embe.qmd
 format:
   html:
     theme:

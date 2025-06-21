@@ -1,17 +1,9 @@
 [
   {
-    "listing": "/nuochoa.html",
+    "listing": "/tuixach.html",
     "items": [
-      "/nuochoa/chloe-chloe-edp/index.html",
-      "/nuochoa/chloe-signature-edp/index.html",
-      "/nuochoa/chanel-coco-mademoiselle/index.html",
-      "/nuochoa/chanel-no5-edp/index.html",
-      "/nuochoa/gucci-bloom-edp/index.html",
-      "/nuochoa/narciso-poudree-edp/index.html",
-      "/nuochoa/narciso-forher-edp/index.html",
-      "/nuochoa/narciso-pure-musc/index.html",
-      "/nuochoa/givenchy-interdit-edp/index.html",
-      "/nuochoa/yves-laurent-edp/index.html"
+      "/tuixach/coach-hadley/index.html",
+      "/tuixach/marc-jacobs-drifter/index.html"
     ]
   },
   {
@@ -19,12 +11,40 @@
     "items": [
       "/mypham/avene-solaire-fragrance/index.html",
       "/mypham/anthelios-uvmune-400/index.html",
+      "/mypham/avene-hyalu-activ-cream/index.html",
+      "/mypham/eucerin-hyalu-filler/index.html",
       "/mypham/hyaluron-active-b3-multi/index.html",
       "/mypham/lierac-premium-creme/index.html",
       "/mypham/avene-solaire-tinted/index.html",
-      "/mypham/avene-hyalu-activ/index.html",
+      "/mypham/avene-hyalu-activ-serum/index.html",
+      "/mypham/avene-vitamin-activ/index.html",
       "/mypham/posay-hyalu/index.html",
-      "/mypham/posay-retinol/index.html"
+      "/mypham/posay-retinol/index.html",
+      "/mypham/skinceuticals-resveratrol/index.html"
+    ]
+  },
+  {
+    "listing": "/embe.html",
+    "items": [
+      "/embe/bebivita-1-from-birth/index.html",
+      "/embe/bebivita-2-after-6-months/index.html",
+      "/embe/bebivita-3-after-10-months/index.html",
+      "/embe/bebivita-pre-from-birth/index.html"
+    ]
+  },
+  {
+    "listing": "/nuochoa.html",
+    "items": [
+      "/nuochoa/chloe-chloe-edp/index.html",
+      "/nuochoa/chloe-signature-edp/index.html",
+      "/nuochoa/chanel-coco-mademoiselle/index.html",
+      "/nuochoa/chanel-no5-edp/index.html",
+      "/nuochoa/givenchy-interdit-edp/index.html",
+      "/nuochoa/gucci-bloom-edp/index.html",
+      "/nuochoa/narciso-poudree-edp/index.html",
+      "/nuochoa/narciso-forher-edp/index.html",
+      "/nuochoa/narciso-pure-musc/index.html",
+      "/nuochoa/yves-laurent-edp/index.html"
     ]
   }
 ]
