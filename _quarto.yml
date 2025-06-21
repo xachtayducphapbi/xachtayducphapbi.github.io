@@ -7,6 +7,8 @@ website:
     left: 
       - text: Mỹ phẩm
         href: mypham.qmd
+      - text: Nước hoa
+        href: nuochoa.qmd
 format:
   html:
     theme:

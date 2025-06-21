@@ -1,0 +1,9 @@
+---
+title: "Serum LA ROCHE POSAY HYALU B5 - 30ml"
+subtitle: "Chính hãng Pháp"
+image: "image.jpg"
+categories:
+- Serum
+---
+
+Serum dưỡng ẩm chống nhăn, làm đầy da, phù hợp với làn da có nếp nhăn và mất độ đàn hồi, mệt mỏi.
