@@ -1,0 +1,9 @@
+---
+title: "Túi xách Swarovski"
+subtitle: "Chính hãng Swarovski"
+image: "image.jpg"
+categories:
+- Swarovski
+---
+
+Túi xách Swarovski màu vàng hồng đính đá pha lê sang trọng
