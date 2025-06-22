@@ -1,0 +1,17 @@
+---
+title: "Thực phẩm chức năng"
+listing:
+  contents: tpcn
+  type: grid
+  image-height: 6in
+  image-lazy-loading: false
+  fields: [image, title, subtitle, description]
+  field-display-names:
+    categories: "Loại tpcn"
+  max-description-length: 190
+  sort: 
+    - "title"
+  categories: true
+  sort-ui: false
+  filter-ui: [title, subtitle]
+---

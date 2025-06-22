@@ -11,6 +11,8 @@ website:
         href: nuochoa.qmd
       - text: Túi xách
         href: tuixach.qmd
+      - text: Thực phẩm chức năng
+        href: tpcn.qmd
       - text: Đồ em bé
         href: embe.qmd
     right:
