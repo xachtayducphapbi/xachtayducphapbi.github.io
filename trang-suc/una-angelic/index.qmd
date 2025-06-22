@@ -1,0 +1,9 @@
+---
+title: "Swarovski Una Angelic"
+subtitle: "Chính hãng Swarovski"
+image: "image.jpg"
+categories:
+- Vòng tay
+---
+
+Vòng tay Swarovski đính đá pha lê xanh lá cây.

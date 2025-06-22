@@ -1,0 +1,9 @@
+---
+title: "Swarovski Louison"
+subtitle: "Chính hãng Swarovski"
+image: "image.jpg"
+categories:
+- Bông tai
+---
+
+Bông tai Swarovski Ngọc Trai Louison hình chiếc lá đính pha lê.

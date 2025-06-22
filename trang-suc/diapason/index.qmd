@@ -1,0 +1,9 @@
+---
+title: "Swarovski Diapason"
+subtitle: "Chính hãng Swarovski"
+image: "image.jpg"
+categories:
+- Bông tai
+---
+
+Bông tai Swarovski đính đá pha lê trắng.

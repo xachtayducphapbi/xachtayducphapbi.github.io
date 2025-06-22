@@ -13,6 +13,8 @@ website:
         href: tuixach.qmd
       - text: Thực phẩm chức năng
         href: tpcn.qmd
+      - text: Trang sức
+        href: trangsuc.qmd
       - text: Đồ em bé
         href: embe.qmd
     right:

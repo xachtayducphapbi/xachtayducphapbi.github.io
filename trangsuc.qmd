@@ -1,0 +1,17 @@
+---
+title: "Trang sức"
+listing:
+  contents: trang-suc
+  type: grid
+  image-height: 6in
+  image-lazy-loading: false
+  fields: [image, title, subtitle, description]
+  field-display-names:
+    categories: "Loại trang sức"
+  max-description-length: 190
+  sort: 
+    - "title"
+  categories: true
+  sort-ui: false
+  filter-ui: [title, subtitle]
+---

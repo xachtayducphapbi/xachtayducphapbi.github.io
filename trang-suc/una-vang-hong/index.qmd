@@ -1,0 +1,9 @@
+---
+title: "Swarovski Una"
+subtitle: "Chính hãng Swarovski"
+image: "image.jpg"
+categories:
+- Dây chuyền
+---
+
+Dây chuyền Swarovski (màu vàng hồng) đính đá pha lê hồng và đá zirconia.

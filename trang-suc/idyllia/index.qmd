@@ -1,0 +1,9 @@
+---
+title: "Swarovski Idyllia"
+subtitle: "Chính hãng Swarovski"
+image: "image.jpg"
+categories:
+- Dây chuyền
+---
+
+Dây chuyền Swarovski (màu vàng hồng) bông hoa cùng đá pha lê và đá zirconia.

@@ -1,0 +1,9 @@
+---
+title: "Swarovski Magic pendant"
+subtitle: "Chính hãng Swarovski"
+image: "image.jpg"
+categories:
+- Dây chuyền
+---
+
+Dây chuyền Swarovski hình bông tuyết đính đá pha lê trắng và đá zirconia.

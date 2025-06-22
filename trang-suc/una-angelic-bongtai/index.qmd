@@ -1,0 +1,9 @@
+---
+title: "Swarovski Una Angelic"
+subtitle: "Chính hãng Swarovski"
+image: "image.jpg"
+categories:
+- Bông tai
+---
+
+Bông tai Swarovski sang trọng đính đá pha lê xanh nước biển và đá zirconia.
