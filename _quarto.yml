@@ -21,6 +21,7 @@ website:
       - icon: globe
         text: "Zalo"
         href: https://zalo.me/84364367938
+google-analytics: G-YWJ031H8H6
 format:
   html:
     theme:
