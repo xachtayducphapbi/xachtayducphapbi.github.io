@@ -3,6 +3,7 @@ project:
   output-dir: "docs"
 website:
   title: "Xách tay Đức Pháp Bỉ"
+  google-analytics: G-YWJ031H8H6
   navbar:
     left: 
       - text: Mỹ phẩm
@@ -21,7 +22,6 @@ website:
       - icon: globe
         text: "Zalo"
         href: https://zalo.me/84364367938
-google-analytics: G-YWJ031H8H6
 format:
   html:
     theme:
