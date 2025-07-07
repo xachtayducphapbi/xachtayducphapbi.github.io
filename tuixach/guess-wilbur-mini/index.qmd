@@ -5,3 +5,5 @@ image: "image.jpg"
 categories:
 - Guess
 ---
+
+![](image.jpg)
